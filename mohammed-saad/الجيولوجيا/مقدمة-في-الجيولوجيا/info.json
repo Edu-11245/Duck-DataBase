@@ -1,0 +1,17 @@
+{
+  "student": "Mohammed Saad",
+  "subject": "الجيولوجيا",
+  "lesson": "مقدمة في الجيولوجيا",
+  "created": "2026-11-18",
+  "items": [
+    {
+      "added": "2026-11-18T22:02:00.739Z",
+      "type": "file",
+      "name": "Lect 1.pdf",
+      "stored": "lect-1.pdf",
+      "size": 4961101,
+      "path": "mohammed-saad/الجيولوجيا/مقدمة-في-الجيولوجيا/lect-1.pdf"
+    }
+  ],
+  "updated": "2026-11-18T22:02:00.739Z"
+}
